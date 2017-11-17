@@ -7,4 +7,4 @@ For the final project of APSC 142 (Intro to Programming for Engineers), a clone 
 
 # Video Demonstration
 
-- Coming Soon
+[![YouTube - Space Invaders NXT Edition](https://img.youtube.com/vi/0m2zGkfNCMI/0.jpg)](https://www.youtube.com/watch?v=0m2zGkfNCMI)
